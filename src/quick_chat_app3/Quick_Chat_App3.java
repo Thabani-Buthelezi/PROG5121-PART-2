@@ -138,7 +138,7 @@ public static void sendMessageOption(MessageService service) {
         // Confirm success
         JOptionPane.showMessageDialog(null,
                 "Message sent successfully!\n\n"
-                + "Message ID: " + id + "\n"
+                + "Message ID.: " + id + "\n"
                 + "Sender: " + sender + "\n"
                 + "Recipient: " + recipient + "\n"
                 + "Message: " + text + "\n"
